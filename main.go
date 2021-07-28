@@ -34,6 +34,11 @@ func main() {
 			Name:  "tulip",
 			Price: 20,
 		},
+		flowers.Flower{
+			Id:    2,
+			Name:  "geranium",
+			Price: 10,
+		},
 	}
 	fmt.Println(a)
 
